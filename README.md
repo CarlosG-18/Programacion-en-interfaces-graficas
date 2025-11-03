@@ -1,4 +1,4 @@
-# Persistencia-de-datos-1
+# Programacion-en-intefaces-graficas-1
 Breve guía para compilar, ejecutar y usar la aplicación de gestión de contactos con MVC, JTable, exportación CSV y gráfico de pastel.
 # Estructura
 - modelo: persona.java, personaDAO.java (persistencia CSV).
